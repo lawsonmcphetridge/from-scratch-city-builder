@@ -33,3 +33,33 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+
+.pictures {
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+}
+
+#forest-picture {
+    width: 500px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+      margin: 20px;
+}
+
+#dock-picture {
+    width: 500px;
+    height: 400px;
+   background-repeat: no-repeat;
+    background-size: 100% 100%;
+      margin: 20px;
+}
+
+#beach-picture {
+    width: 500px;
+    height: 400px;
+   background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 20px;
+}
